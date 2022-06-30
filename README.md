@@ -45,3 +45,7 @@ it is easier. Anyway, with that information, we can calculate the distance! Just
 the sound waves travel to the object AND back). We will store that in the distance variable.
 
 distance = (duration*.0343)/2;
+
+## Demo
+![](https://github.com/nandinisetia/Social-Distancing-Indicator/blob/main/arduino_gif.gif)
+
